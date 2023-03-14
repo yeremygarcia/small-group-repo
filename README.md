@@ -1,2 +1,1 @@
 # small-group-repo
-gdg
