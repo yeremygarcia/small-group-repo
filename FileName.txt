@@ -4,3 +4,5 @@ git commit
 snapshot of code 
 git pull
 pulled from main
+git clone ""
+copies a file from github
