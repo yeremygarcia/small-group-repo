@@ -1,2 +1,4 @@
 git push 
 pushes to main
+git commit 
+snapshot of code 
